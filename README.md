@@ -24,9 +24,13 @@ It includes:
 DSA-JAVA/
 │
 ├── Basic-Java/ # Java syntax, OOP, core concepts
+|
 ├── Data-Structures/ # Linked Lists, Stacks, Queues, Trees, Graphs, etc.
+|
 ├── Algorithms/ # Sorting, Searching, Recursion, DP, etc.
-├── Practice-Problems/ # LeetCode, HackerRank, CodeChef, etc.
+|
+├── Practice-Problems/ # LeetCode, HackerRank, etc.
+|
 └── README.md # Project overview
 
 ```
