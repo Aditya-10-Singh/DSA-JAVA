@@ -20,6 +20,7 @@ It includes:
 
 ## 📂 Structure
 
+```
 DSA-JAVA/
 │
 ├── Basic-Java/ # Java syntax, OOP, core concepts
@@ -27,6 +28,8 @@ DSA-JAVA/
 ├── Algorithms/ # Sorting, Searching, Recursion, DP, etc.
 ├── Practice-Problems/ # LeetCode, HackerRank, CodeChef, etc.
 └── README.md # Project overview
+
+```
 
 ---
 
@@ -48,10 +51,18 @@ git clone https://github.com/Aditya-10-Singh/DSA-JAVA.git
 ```
 Open any folder and run the Java files to practice and learn.
 
+---
+
 ## 📌 Note
 This is a learning repository — code quality may evolve over time as I improve my skills and refactor older solutions.
+
+---
 
 ## 📞 Contact
 If you have suggestions or want to collaborate, feel free to open an issue or reach out!
 
+---
+
 **Happy coding! ☕✨**
+
+---
