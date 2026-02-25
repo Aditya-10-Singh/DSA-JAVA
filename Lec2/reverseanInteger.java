@@ -14,5 +14,6 @@ public class reverseanInteger {
         }
 
         System.out.println(reverse);
+        sc.close();
     }
 }

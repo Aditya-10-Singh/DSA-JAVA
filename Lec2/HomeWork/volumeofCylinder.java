@@ -12,5 +12,6 @@ public class volumeofCylinder {
 
         double volume = Math.PI * r * r * h;
         System.out.println(volume);
+        sc.close();
     }
 }

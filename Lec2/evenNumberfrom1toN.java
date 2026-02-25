@@ -9,5 +9,6 @@ public class evenNumberfrom1toN {
         for(int i=2; i<=n; i+=2){
             System.out.println(i + " ");
         }
+        sc.close();        
     }
 }

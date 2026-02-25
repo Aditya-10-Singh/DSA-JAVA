@@ -11,5 +11,6 @@ public class volumeofCone {
 
         double volume = (1.0 / 3) * Math.PI * r * r * h;
         System.out.println(volume);
+        sc.close();        
     }
 }

@@ -11,5 +11,6 @@ class maxofTwoNumbers {
         } else {
             System.out.println(b);
         }
+        sc.close();        
     }
 }

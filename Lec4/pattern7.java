@@ -1,0 +1,25 @@
+package Lec4;
+import java.util.Scanner;
+class pattern7 {
+    public static void main(String [] args){
+        Scanner sc = new Scanner(System.in);
+        int n =sc.nextInt();
+        int row = 0; 
+        while (row < n){
+            int col = 0;
+            while (col < n){
+                if (row==0 || row == n-1 || col == 0 || col == n-1){
+                    System.out.print("* ");
+                }
+                else{
+                    System.out.print("  ");
+                }
+                col++;
+            }
+            System.out.println();
+            row++;
+
+        }
+        sc.close();
+    }
+}

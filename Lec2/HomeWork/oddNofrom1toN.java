@@ -11,5 +11,6 @@ public class oddNofrom1toN {
         for (int i = 1; i <= n; i += 2) {
             System.out.print(i + " ");
         }
+        sc.close();
     }
 }

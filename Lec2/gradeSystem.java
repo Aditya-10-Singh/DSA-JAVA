@@ -16,5 +16,6 @@ public class gradeSystem {
             System.out.println("D");
         else
             System.out.println("F");
+        sc.close();
     }
 }

@@ -11,5 +11,6 @@ public class volumeofHemisphere {
 
         double volume = (2.0 / 3) * Math.PI * r * r * r;
         System.out.println(volume);
+        sc.close();
     }
 }

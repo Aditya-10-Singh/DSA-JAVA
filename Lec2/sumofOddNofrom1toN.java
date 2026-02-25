@@ -15,5 +15,6 @@ public class sumofOddNofrom1toN {
         }
 
         System.out.println(sum);
+        sc.close();
     }
 }
