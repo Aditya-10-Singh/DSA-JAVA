@@ -2,7 +2,7 @@ package Lec9;
 import java.util.Scanner;
 public class evenOdd 
 
-/*{
+{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -13,7 +13,7 @@ public class evenOdd
         }
         sc.close();
     }
-}*/
+}
 
 //VOID
 /*{
@@ -29,7 +29,7 @@ public class evenOdd
         int n = sc.nextInt();
         evenOdd(n);
     }
-}*/
+}/*
 
 //RETURN
 
@@ -43,4 +43,4 @@ public class evenOdd
         System.out.println(evenOdd(n));
         sc.close();
     }
-}
+}*/

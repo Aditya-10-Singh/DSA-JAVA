@@ -29,7 +29,7 @@ DSA-JAVA/
 |
 ├── Algorithms/ # Sorting, Searching, Recursion, DP, etc.
 |
-├── Practice-Problems/ # LeetCode, HackerRank, etc.
+├── Practice-Problems/ # LeetCode, etc.
 |
 └── README.md # Project overview
 

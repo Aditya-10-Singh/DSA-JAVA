@@ -7,8 +7,8 @@ public class ASSIGNMENT_3_Q5 {
 
         Scanner sc = new Scanner(System.in);
 
-        int N1 = sc.nextInt();   // how many terms to print
-        int N2 = sc.nextInt();   // divisor
+        int N1 = sc.nextInt();   
+        int N2 = sc.nextInt();  
 
         int count = 0;  // how many printed
         int n = 1;
